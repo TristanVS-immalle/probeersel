@@ -13,3 +13,5 @@ Mijn leerkracht zegt wel eens:
 > Markdown is een zeer handige opmaaktaal voor eenvoudige tekstjes!
 Gebruik de preview-knop en geef de commit een beschrijving, b.v. "Wat over Markdown".
 
+## Visual Studio Code
+Visual Studio Code is toch **echt** wel een editor met veel mogelijkheden!
